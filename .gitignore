@@ -1,0 +1,11 @@
+.vs/
+*.vsidx
+*.user
+*.suo
+bin/
+obj/
+.vs/
+bin/
+obj/
+*.user
+*.suo
