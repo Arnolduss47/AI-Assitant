@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER-PC\\OneDrive\\Documents\\Jarvis\\Jarvis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0BFC60-DBB6-4EA7-B955-ED88846E0B24}|Jarvis\\Jarvis.vcxproj|C:\\Users\\USER-PC\\OneDrive\\Documents\\Jarvis\\Jarvis\\Jarvis\\Jarvis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F0BFC60-DBB6-4EA7-B955-ED88846E0B24}|Jarvis\\Jarvis.vcxproj|solutionrelative:Jarvis\\Jarvis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jarvis.cpp",
+              "DocumentMoniker": "C:\\Users\\USER-PC\\OneDrive\\Documents\\Jarvis\\Jarvis\\Jarvis\\Jarvis.cpp",
+              "RelativeDocumentMoniker": "Jarvis\\Jarvis.cpp",
+              "ToolTip": "C:\\Users\\USER-PC\\OneDrive\\Documents\\Jarvis\\Jarvis\\Jarvis\\Jarvis.cpp",
+              "RelativeToolTip": "Jarvis\\Jarvis.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-04T19:19:28.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
